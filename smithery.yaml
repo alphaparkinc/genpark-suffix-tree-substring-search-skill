@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-suffix-tree-substring-search-skill
+description: Generalized Suffix Tree for linear-time sub-string indexing and multi-agent document pattern mining
+version: 1.0.1
+homepage: https://www.genpark.ai
