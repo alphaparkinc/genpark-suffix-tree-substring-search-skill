@@ -1,0 +1,9 @@
+{
+  "name": "genpark-suffix-tree-substring-search-skill",
+  "version": "1.0.1",
+  "description": "Generalized Suffix Tree for linear-time sub-string indexing and multi-agent document pattern mining",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
